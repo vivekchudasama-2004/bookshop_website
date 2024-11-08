@@ -48,4 +48,5 @@ Feel free to customize or expand the project by modifying the HTML, CSS, JavaScr
 
 ---
 
+
 Thank you for visiting my bookshop website! I hope you enjoy exploring the collection. Feedback is always appreciated!
